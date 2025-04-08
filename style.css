@@ -67,3 +67,12 @@ footer {
 i {
     position: relative;
 }
+
+h2 {
+    display: inline-block;
+    background-color: #bcd0ff;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 5%;
+    opacity: 80%;
+}
